@@ -1,5 +1,5 @@
 # Deployment Link
-https://payemnt-gateway.netlify.app/
+http://paymentgateway.fun
 # PaymentGateway
 Steps to setup:
 cd Backend
