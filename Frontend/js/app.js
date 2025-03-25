@@ -18,7 +18,7 @@ form.addEventListener("submit", async (e) => {
         return;
     }
 
-    const response = await fetch("http://52.66.252.46:3000/api/payment/create-payment-intent", {
+    const response = await fetch("http://api.paymentgateway.fun/api/payment/create-payment-intent", {
         method: "POST",
         headers: {
             "Content-Type": "application/json",
